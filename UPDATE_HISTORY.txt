@@ -1,0 +1,46 @@
+THESE ARE THE UPDATE HISTORY OF SAS-STE
+==========================================
+
+WHAT THE PLACE VALUES OF VERSION NUMBER MEAN:
+
+vX.Y.Z
+
+Z= increases after a bug fix
+Y= increses after adding a new feature
+X= increases after an encryption algorithm change
+
+===========================================
+
+SAS-STE-Wizard:
+------------------
+
+v2.2.4 :
+ > Encryption algorithm improved and extra security layers added
+ > Support for keys added
+ > Static Key and Public Key added
+ > .skey file extention now used for SAS-STE key files
+ > Reusing existing key feature added
+ > Ignoring unknown characters feature added
+ > Multiple time encryption feature added
+ > Improved user side error handling
+ > Major bug fixes
+ > Efficiency improved
+
+(!!!Versions of SAS-STE-Wizard below this point are from the discontinued SAS-STE-v1-Wizard!!!)
+
+v1.1.3 : 
+  > Multiple Text Input feature added
+  > Back option added to all user input needed steps
+  > Major bug fixes
+  > Efficiency improved
+  > Algorithm flow improved
+  
+v1.0.2 :
+  > Major bug fixes
+  > Efficiency improved
+  
+v1.0.1 :
+  > Major bug fixes
+  
+v1.0 :
+  > First release
