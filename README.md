@@ -18,3 +18,9 @@
 ## Beware!!!
 > - When typing '<b>\\</b>' (backward slash) anywhere in this version of SAS-STE, <b>DO TYPE IT TWICE</b>. (eg: D:<b>\\\\</b>test<b>\\\\</b>file.txt)
 > - <b>Back</b> options can be used <b>MAXIMUM 2 TIMES</b> per run
+
+## Documentation
+> SAS-STE Official Documentation (https://github.com/saaiqSAS/SAS-STE/blob/SAS/Documentation/SAS-STE%20Documentation.pdf)
+
+## Related Tools
+> SAS-STE-StaticKeyGen (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen)
