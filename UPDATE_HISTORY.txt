@@ -22,7 +22,7 @@ v2.2.4 :
  > Reusing existing key feature added
  > Ignoring unknown characters feature added
  > Multiple time encryption feature added
- > Improved user side error handling
+ > Improved handling of user side errors
  > Major bug fixes
  > Efficiency improved
 
