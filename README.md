@@ -1,4 +1,6 @@
-# SAS-STE
+<img src="https://raw.githubusercontent.com/saaiqSAS/saaiqSAS.github.io/SAS/imgs/SAS-STE-FullLogoWeb-1000.jpg"/>
+<br/>
+
 <b>SAS-STE</b> (<b>SAS</b>-<b>S</b>ecure <b>T</b>ext <b>E</b>ncryption) is a text based encryption algorithm designed and made by <b>S</b>aaiq <b>A</b>bdulla <b>S</b>aeed (<b>SAS</b>)
 
 -SAS-
