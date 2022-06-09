@@ -1,0 +1,6 @@
+THIS FILE CONTAINS A LIST OF ALL THE PEOPLE WHO CONTRIBUTED DIRECTLY AND INDIRECTLY TO SAS-STE AND DESERVES A TOCKEN OF APPRECIATION 
+======================================================================================================================================
+
+1. Hussain Yooh Amir :
+  > Proof read the SAS-STE Official Documentation and fixed mistakes
+  > Helped in choosing the SAS-STE logo
