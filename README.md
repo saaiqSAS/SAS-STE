@@ -6,7 +6,7 @@
 -SAS-
 
 ## Requirements
-> - Java SE <b>17+</b> (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+> - Java JDK <b>17+</b> (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 
 ## Latest Releases
