@@ -44,3 +44,14 @@ v1.0.1 :
   
 v1.0 :
   > First release
+  
+  
+  
+SAS-STE-Mobile:
+------------------
+
+v2.0.0_BETA :
+  > First release
+  > All features available execpt for OCR scannig and select file features
+  > Encrypt/Decrypt text and text based files
+
