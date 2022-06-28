@@ -11,14 +11,17 @@
 
 ## Latest Releases
 
-### Windows
+### SAS-STE-Wizard
 > SAS-STE-Wizard-Windows <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v2.2.4)
 
-### Linux
 > SAS-STE-Wizard-Linux <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v2.2.4)
 
-### Source Code
 > SAS-STE-Wizard-SourceCode <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v2.2.4)
+
+### SAS-STE-Mobile
+> SAS-STE-Mobile-Android <b>v2.0.0</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v2.0.0_BETA)
+
+> SAS-STE-Mobile-Android-SourceCode <b>v2.0.0</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v2.0.0_BETA)
 
 ## Beware!!!
 > - When typing '<b>\\</b>' (backward slash) anywhere in this version of SAS-STE, <b>DO TYPE IT TWICE</b>. (eg: D:<b>\\\\</b>test<b>\\\\</b>file.txt)
