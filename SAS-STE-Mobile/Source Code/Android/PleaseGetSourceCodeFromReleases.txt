@@ -1,1 +1,2 @@
 Please get source code from releases
+(https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v2.0.0_BETA)
