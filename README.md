@@ -9,23 +9,23 @@
 
 ## Requirements
 ### SAS-STE-Wizard
-> - Java JDK <b>17+</b> (https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+> <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html"> Java JDK <b>17+</b> </a>
 
 <br/>
 
 ## Latest Releases
 
 ### SAS-STE-Wizard
-> SAS-STE-Wizard-Windows <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v2.2.4)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v2.2.4"> SAS-STE-Wizard-Windows <b>v2.2.4</b>  </a>
 
-> SAS-STE-Wizard-Linux <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v2.2.4)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v2.2.4"> SAS-STE-Wizard-Linux <b>v2.2.4</b>  </a>
 
-> SAS-STE-Wizard-SourceCode <b>v2.2.4</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v2.2.4)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v2.2.4"> SAS-STE-Wizard-SourceCode <b>v2.2.4</b>  </a>
 
 ### SAS-STE-Mobile
-> SAS-STE-Mobile-Android <b>v2.0.0</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v2.0.0_BETA)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v2.0.0_BETA"> SAS-STE-Mobile-Android <b>v2.0.0</b>  </a>
 
-> SAS-STE-Mobile-Android-SourceCode <b>v2.0.0</b> (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v2.0.0_BETA)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v2.0.0_BETA"> SAS-STE-Mobile-Android-SourceCode <b>v2.0.0</b>  </a>
 
 <br/>
 
@@ -36,9 +36,9 @@
 <br/>
 
 ## Documentation
-> SAS-STE Official Documentation (https://github.com/saaiqSAS/SAS-STE/blob/SAS/Documentation/SAS-STE%20Documentation.pdf)
+> <a href="https://github.com/saaiqSAS/SAS-STE/blob/SAS/Documentation/SAS-STE%20Documentation.pdf"> SAS-STE Official Documentation </a>
 
 <br/>
 
 ## Related Tools
-> SAS-STE-StaticKeyGen (https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen)
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen"> SAS-STE-StaticKeyGen </a>
