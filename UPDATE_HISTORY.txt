@@ -16,6 +16,7 @@ SAS-STE-Wizard:
 
 v3.3.5 :
  > Ability to change static keys in the compiled version added
+ > StaicKeyGen executable added to programFiles directory
  > StaticKeys.stkey files made to store static keys
  > Static keys are stored in a file instead of being embedded
  > No need to type '\' (backward slash) twice anywhere in the program
