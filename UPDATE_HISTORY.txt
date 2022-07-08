@@ -14,6 +14,16 @@ X= increases after an encryption algorithm change
 SAS-STE-Wizard:
 ------------------
 
+v3.3.5 :
+ > Ability to change static keys in the compiled version added
+ > StaticKeys.stkey files made to store static keys
+ > Static keys are stored in a file instead of being embedded
+ > No need to type '\' (backward slash) twice anywhere in the program
+ > Feature to save output of encrypted/decrypted files to themselves
+ > User security improved
+ > Major bug fixes
+ > Efficiency improved
+
 v2.2.4 :
  > Encryption algorithm improved and extra security layers added
  > Support for keys added
@@ -49,6 +59,19 @@ v1.0 :
   
 SAS-STE-Mobile:
 ------------------
+
+v3.1.2_BETA :
+ > StaticKeyGen embedded in the application
+ > Ability to easily change static keys by holding and releasing 'New Key' button in 'Home/Main Page' 3 times
+ > Feature to save output of encrypted/decrypted files to themselves by holding 'Save To File' button in 'Output'
+ > User security improved
+ > Major bug fixes
+ > Efficiency improved
+
+v2.0.1_BETA :
+ > UI bug fixes
+ > Bug fixes
+ > Error handling improved
 
 v2.0.0_BETA :
   > First release
