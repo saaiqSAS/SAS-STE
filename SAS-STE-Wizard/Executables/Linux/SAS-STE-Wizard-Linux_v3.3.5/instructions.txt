@@ -1,0 +1,14 @@
+Instructions to run SAS-STE-Wizard
+
+1. Download and install all of the requirements and dependencies mentioned in "requirements.txt" file
+2. give execute permission to "sas-ste" using the following command
+    
+    $sudo chmod +x sas-ste
+
+3. Execute "sas-ste" to run program
+    
+   $./sas-ste
+
+4. For maximum security of your encrypted data please change your static keys using the 'sas-ste-statickeygen' in 'programFiles' directory.
+
+(For more informtion please refer to the official SAS-STE documentation at "https://saaiqsas.github.io/tools/sas-ste.html")
