@@ -16,16 +16,16 @@
 ## Latest Releases
 
 ### SAS-STE-Wizard
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v2.2.4"> SAS-STE-Wizard-Windows <b>v2.2.4</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v3.3.5"> SAS-STE-Wizard-Windows <b>v3.3.5</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v2.2.4"> SAS-STE-Wizard-Linux <b>v2.2.4</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v3.3.5"> SAS-STE-Wizard-Linux <b>v3.3.5</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v2.2.4"> SAS-STE-Wizard-SourceCode <b>v2.2.4</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v3.3.5"> SAS-STE-Wizard-SourceCode <b>v3.3.5</b>  </a>
 
 ### SAS-STE-Mobile
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v2.0.1_BETA"> SAS-STE-Mobile-Android <b>v2.0.1</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v3.1.2_BETA"> SAS-STE-Mobile-Android <b>v3.1.2</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v2.0.1_BETA"> SAS-STE-Mobile-Android-SourceCode <b>v2.0.1</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v3.1.2_BETA"> SAS-STE-Mobile-Android-SourceCode <b>v3.1.2</b>  </a>
 
 <br/>
 
@@ -41,4 +41,7 @@
 <br/>
 
 ## Related Tools
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen"> SAS-STE-StaticKeyGen </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen_NEW"> SAS-STE-StaticKeyGen </a>
+
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen-SourceCode_NEW"> SAS-STE-StaticKeyGen-SourceCode </a>
+
