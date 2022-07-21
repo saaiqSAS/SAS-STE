@@ -63,7 +63,7 @@ SAS-STE-Mobile:
 
 v3.2.3 :
  > UI improvements made
- > Paste directly to major input fields via paste button feature added
+ > Paste directly to major input fields via 'paste' button feature added
  > Bug fixes
 
 v3.1.2_BETA :
