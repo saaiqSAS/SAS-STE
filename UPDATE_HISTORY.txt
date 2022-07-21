@@ -61,6 +61,11 @@ v1.0 :
 SAS-STE-Mobile:
 ------------------
 
+v3.2.3 :
+ > UI improvements made
+ > Paste directly to major input fields via paste button feature added
+ > Bug fixes
+
 v3.1.2_BETA :
  > StaticKeyGen embedded in the application
  > Ability to easily change static keys by holding and releasing 'New Key' button in 'Home/Main Page' 3 times
