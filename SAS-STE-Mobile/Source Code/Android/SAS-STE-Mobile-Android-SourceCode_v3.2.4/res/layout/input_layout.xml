@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="18dp"
+                android:textColor="@color/textNormal"
+                android:text="Input "/>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="4"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#151515"
+                android:gravity="center"
+                android:fillViewport="true">
+
+            <EditText
+                android:id="@+id/edittext_input_text"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_weight="4"
+                android:background="#151515"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:gravity="top|left"
+                android:textColorHint="#505050"
+                android:hint="Press To Enter Text"
+                android:text=""
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"/>
+
+            </ScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/button_scan_input_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:text="Scan"
+                    android:drawableLeft="@drawable/ic_scan"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerInput"/>
+
+                <Button
+                    android:id="@+id/button_paste_input_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="Paste"
+                    android:drawableLeft="@drawable/ic_paste"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerInput"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textNormal"
+                android:textSize="25dp"
+                android:text="OR"
+                android:gravity="center"/>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fillViewport="true"
+                android:scrollbars="horizontal">
+
+            <EditText
+                android:id="@+id/edittext_input_file"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:background="#151515"
+                android:gravity="center"
+                android:textColorHint="#505050"
+                android:hint="Press To Enter Input File Path"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"/>
+
+            </ScrollView>
+            <Button
+                android:id="@+id/button_select_input_file"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:text="Select File"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"
+                android:onClick="buttonManagerInput"/>
+
+            <LinearLayout
+                android:id="@+id/back_next_buttons_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_back"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:text="Back"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerInput"/>
+
+                <Button
+                    android:id="@+id/button_next"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="Next"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerInput"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:id="@+id/layout_encrypt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SAS-STE: Static Key Generator"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp" />
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fillViewport="true"
+                android:scrollbars="horizontal">
+
+                <EditText
+                    android:id="@+id/edittext_input_statickeys_file_identifier"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:background="#151515"
+                    android:gravity="center"
+                    android:textColorHint="#505050"
+                    android:hint="Press To Enter StaticKeys File Identifier"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"/>
+
+            </ScrollView>
+
+            <Button
+                android:id="@+id/button_generate_statickeys"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:text="Generate StaticKeys"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"
+                android:onClick="buttonManagerStaticKeyGen"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textNormal"
+                android:textSize="25dp"
+                android:text="OR"
+                android:gravity="center"/>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fillViewport="true"
+                android:scrollbars="horizontal">
+
+                <EditText
+                    android:id="@+id/edittext_input_statickeys_file"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:background="#151515"
+                    android:gravity="center"
+                    android:textColorHint="#505050"
+                    android:hint="Press To Enter StaticKeys.stkey File Path"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"/>
+
+            </ScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_select_statickeys_file"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:text="Select File"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerStaticKeyGen"/>
+
+                <Button
+                    android:id="@+id/button_confirm_static_keys_file"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="Confirm"
+                    android:textColor="@color/textNormal"
+                    android:textSize="18dp"
+                    android:onClick="buttonManagerStaticKeyGen"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textNormal"
+                android:textSize="25dp"
+                android:text="OR"
+                android:gravity="center"/>
+
+            <Button
+                android:id="@+id/button_restore_default_static_keys"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:text="Restore Defaults"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"
+                android:onClick="buttonManagerStaticKeyGen"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textNormal"
+                android:textSize="25dp"
+                android:text="_________"
+                android:gravity="center"/>
+
+            <Button
+                android:id="@+id/button_view_crr_static_keys"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="View Current Static Keys"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"
+                android:onClick="buttonManagerStaticKeyGen"/>
+
+            <Button
+                android:id="@+id/button_back"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Back"
+                android:textColor="@color/textNormal"
+                android:textSize="18dp"
+                android:onClick="buttonManagerStaticKeyGen"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
