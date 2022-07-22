@@ -25,9 +25,9 @@ Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 > <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v3.3.5"> SAS-STE-Wizard-SourceCode <b>v3.3.5</b>  </a>
 
 ### SAS-STE-Mobile
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v3.2.3"> SAS-STE-Mobile-Android <b>v3.2.3</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v3.2.4"> SAS-STE-Mobile-Android <b>v3.2.4</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v3.2.3"> SAS-STE-Mobile-Android-SourceCode <b>v3.2.3</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v3.2.4"> SAS-STE-Mobile-Android-SourceCode <b>v3.2.4</b>  </a>
 
 <br/>
 
