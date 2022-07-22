@@ -62,6 +62,9 @@ SAS-STE-Mobile:
 ------------------
 
 v3.2.3 :
+ > Android 11 support added (Adapted to Scoped Storage System)
+
+v3.2.3 :
  > UI improvements made
  > Paste directly to major input fields via 'paste' button feature added
  > Bug fixes
