@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="1dp"
+    android:background="#000000"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button_row_file_explorer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#000000"
+        android:drawableLeft="@drawable/ic_directory"
+        android:textAllCaps="false"
+        android:text="FileName"
+        android:textColor="@color/textNormal"
+        android:textSize="18dp"
+        android:gravity="center|left"/>
+
+</LinearLayout>

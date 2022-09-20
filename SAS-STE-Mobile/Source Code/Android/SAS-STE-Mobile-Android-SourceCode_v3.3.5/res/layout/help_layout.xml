@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Contents"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="1. What Is SAS-STE"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="2. What IS SAS-STE-Mobile"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="3. Home"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="4. Scanning Text From Images"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="5. Inputting Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="6. Saving Output To Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="7. Saving Keys To Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="8. Changing Static Keys"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="What Is SAS-STE"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="SAS-STE : Secure Text Encryption is a text based encryption algorithm designed and made by Saaiq Abdulla Saeed based on a unique concept. SAS-STE supports the encryption of pure plain text and any text based files. In addition to supporting keyed and no key encryptions, SAS-STE allows you to re use previously generated keys. SAS-STE algorithm uses two types keys to both encrypt and decrypt text based data. Static keys, which are stored in the program and Public keys, which are used in general. To find more information about SAS-STE and how it works, please refer to the documentation at (https://saaiqsas.github.io/tools/sas-ste.html)."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="What Is SAS-STE-Mobile"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="SAS-STE-Mobile is the official mobile encryption application that uses the SAS-STE algorithm. Below will be brief explanations on using SAS-STE-Mobile."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Home"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="There will be a total of 5 buttons in the main home page of SAS-STE-Mobile. 3 for encrypting. and 2 for decrypting."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="1. Encrypt - NEW KEY : Used to encrypt data using a newly generated public key."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="2. Encrypt - EXISTING KEY : Used to encrypt data using an already existing key. The existing key can be a plain text key or a key file (.skey file)."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="3. Encrypt - NO KEY : Used to encrypt data using only the static keys without a public key."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="4. Decrypt - KEYED : Used to decrypt data that was encrypted using a public key. The key can be a plain text key or a key file (.skey file). "/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="5. Decrypt - NO KEY : Used to decrypt encrypted data that was encrypted without a public key (via the Encrypt - NO KEY). A public key is not required for this."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="After you choose one of these options, the rest will be very straight forward."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Scanning Text From Images"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="Near each major text input field there will be a SCAN button. You can click this button to extract text from an image. A new image can be taken from the camera, or an existing image can be chosen from the gallery. When giving an image for text recognition make sure the image is clear and the characters in it are not too small or too big in size."/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Inputting Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="When inputting files you can manually enter the file path starting from the root directory '/', or you can select a file using the SELECT FILE button when inputting a text based file for processing or SELECT KEY FILE button when inputting existing key as a file."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Saving Output To Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="In the output page you can save your output to a new file by giving a file name in the filed above the SAVE TO FILE button. Then your data will be saved in the 'Downloads/SAS-STE/Output' directory. If you give the name of a already existing file, the current data in the file WILL NOT BE overridden. Instead the new data will be saved below the existing data. If your input was a file then you can directly save to the input file by holding the SAVE TO FILE button. Make sure to give the file extension when giving a file name."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Saving Keys To Files"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="In the key generator page (public key, not static key) you can save your newly generated key to key file (.skey file) by giving a file name and pressing the SAVE TO FILE button. This new key file then will be saved in 'Downloads/SAS-STE/Key' directory. If you give the name of a already existing file, the current key in the file WILL BE overridden. No need for to give file extension as '.skey' extension will be automatically given to the file."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/textNormal"
+                android:text="Changing Static Keys"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:gravity="left|center"
+                android:textSize="18dp"
+                android:textStyle="normal"
+                android:textColor="@color/textNormal"
+                android:text="You can go to the static key generator page by holding and releasing the Encrypt - NEW KEY button in home 3 times. From there you can either generate a new static keys file (.stkey file) or choose an already existing static keys (.stkey file) file. Then you will be taken to a preview page to view the static keys before applying them. In the preview page hold and release the APPLY button 3 times to apply the static keys. After that close and reopen SAS-STE for the new static keys to take effect. You can also restore default static keys by holding and releasing RESTORE DEFAULTS button in the static key generator page. Make sure to reopen SAS-STE even after restoring default static keys."/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
