@@ -61,6 +61,15 @@ v1.0 :
 SAS-STE-Mobile:
 ------------------
 
+v3.3.5 :
+ > All comming soon features are now available
+ > Select files feature added
+ > Scan feature added (powered by Google's ML Kit)
+ > In-built offline brief help page added
+ > Android 11+ support enhanced (MANAGE_EXTERNAL_STORAGE permission used)
+ > Bug fixes
+ > Error handling improved
+
 v3.2.3 :
  > Android 11 support added (Adapted to Scoped Storage System)
 
