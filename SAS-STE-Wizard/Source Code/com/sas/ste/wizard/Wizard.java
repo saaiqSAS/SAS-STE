@@ -1155,6 +1155,7 @@ public class Wizard {
             System.out.println("");
             System.out.println(" [<] Back");
             System.out.println(" [x] Exit");
+            System.out.print("> ");
 
             String input = grab.next() + grab.nextLine();
 
