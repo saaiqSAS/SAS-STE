@@ -18,11 +18,11 @@ Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 ## Latest Releases
 
 ### SAS-STE-Wizard
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v3.3.5"> SAS-STE-Wizard-Windows <b>v3.3.5</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Windows_v4.4.6"> SAS-STE-Wizard-Windows <b>v4.4.6</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v3.3.5"> SAS-STE-Wizard-Linux <b>v3.3.5</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-Linux_v4.4.6"> SAS-STE-Wizard-Linux <b>v4.4.6</b>  </a>
 
-> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v3.3.5"> SAS-STE-Wizard-SourceCode <b>v3.3.5</b>  </a>
+> <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Wizard-SourceCode_v4.4.6"> SAS-STE-Wizard-SourceCode <b>v4.4.6</b>  </a>
 
 ### SAS-STE-Mobile
 > <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v3.3.5"> SAS-STE-Mobile-Android <b>v3.3.5</b>  </a>
