@@ -177,7 +177,7 @@ public class SasSte {
         }
         Collections.shuffle(Arrays.asList(charSetKey));
 
-        tempKey += rand.nextInt(3); // L0Type
+        tempKey += rand.nextInt(5); // L0Type
         tempKey += rand.nextInt(6); //L2pAsign
 
         for (int charKey : charSetKey) {
