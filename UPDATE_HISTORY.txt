@@ -14,6 +14,19 @@ X= increases after an encryption algorithm change
 SAS-STE-Wizard:
 ------------------
 
+v4.4.6 :
+ > SAS-STE algorithm improved to provide better security
+ > Backward compatability with v3.3.5 maintained
+ > Input multiple text files feature added
+ > Input one or more directories feature added
+ > Unlimited back function added
+ > Ability to process all files within directoies added
+ > Ability to change StaticKeys within the wizard added
+ > Wizard flow and options improved
+ > SAS-STE API embedded
+ > Efficiency improved big time due to full remake
+ > Major bug fixes
+
 v3.3.5 :
  > Ability to change static keys in the compiled version added
  > StaicKeyGen executable added to programFiles directory
