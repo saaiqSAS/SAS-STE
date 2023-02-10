@@ -1,2 +1,0 @@
-Please get the full source code from releases
-(https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-StaticKeyGen-SourceCode_NEW)
