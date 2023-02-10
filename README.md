@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/saaiqSAS/saaiqSAS.github.io/SAS/imgs/SAS-STE-FullLogoWeb-1000.jpg"/>
 <br/>
 
-<b>SAS-STE</b> (<b>SAS</b>-<b>S</b>ecure <b>T</b>ext <b>E</b>ncryption) is a text based encryption algorithm designed and made by <b>S</b>aaiq <b>A</b>bdulla <b>S</b>aeed (<b>SAS</b>) based on a unique concept.
+<b>SAS-STE</b> (<b>SAS</b>-<b>S</b>ecure <b>T</b>ext <b>E</b>ncryption) is a very secure and unique text encryption algorithm developed and maintained by <b>S</b>aaiq <b>A</b>bdulla <b>S</b>aeed (<b>SAS</b>).
 
 Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 
@@ -28,11 +28,6 @@ Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 > <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android_v3.3.5"> SAS-STE-Mobile-Android <b>v3.3.5</b>  </a>
 
 > <a href="https://github.com/saaiqSAS/SAS-STE/releases/tag/SAS-STE-Mobile-Android-SourceCode_v3.3.5"> SAS-STE-Mobile-Android-SourceCode <b>v3.3.5</b>  </a>
-
-<br/>
-
-## Beware!!!
-> - <b>Back</b> options in SAS-STE-Wizard can be used <b>MAXIMUM 2 TIMES</b> per run
 
 <br/>
 
