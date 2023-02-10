@@ -1,0 +1,10 @@
+#bin/bash
+
+PWD() {
+  pwd
+}
+
+PFP=$(PWD)/programFiles
+cd $PFP
+
+java com.sas.ste.wiz.Main

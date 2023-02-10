@@ -1,0 +1,6 @@
+Instructions to run SAS-STE-Wizard
+
+1. Download and install all of the requirements and dependencies mentioned in "requirements.txt" file.
+2. Open/Execute the "sas-ste.bat" to start the program.
+
+(For more informtion please refer to the official SAS-STE documentation at "https://saaiqsas.github.io/tools/sas-ste.html")
