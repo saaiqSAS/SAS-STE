@@ -74,6 +74,13 @@ v1.0 :
 SAS-STE-Mobile:
 ------------------
 
+v4.4.6 :
+ > SAS-STE algorithm improved to provide better security
+ > Backward compatability with v3.3.5 maintained
+ > Improved Text Recogniser (Google's ML Kit updated)
+ > UI improvements made
+ > bug fixes
+
 v3.3.5 :
  > All comming soon features are now available
  > Select files feature added
