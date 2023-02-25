@@ -1047,6 +1047,7 @@ public class Wizard {
                     break;
                 case "2":
                     accepted = true;
+                    SasSte.getKeyFromText(generatedKey);
                     saveKeyToFile(generatedKey);
                     break;
                 case "3":
