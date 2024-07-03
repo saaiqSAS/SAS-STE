@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/saaiqSAS/saaiqSAS.github.io/SAS/imgs/SAS-STE-FullLogoWeb-1000.jpg"/>
+<img src="SAS-STE-FullLogoWeb-1000-Background.jpg"/>
 <br/>
 
 <b>SAS-STE</b>  ( Saaiq Abdulla Saeed's - Secure Text Encryption ) is an opensource text-based deterministic random substitution encryption algorithm developed by Saaiq Abdulla Saeed (saaiqSAS)
