@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/saaiqSAS/saaiqSAS.github.io/SAS/imgs/SAS-STE-FullLogoWeb-1000.jpg"/>
 <br/>
 
-<b>SAS-STE</b> (<b>SAS</b>-<b>S</b>ecure <b>T</b>ext <b>E</b>ncryption) is a very secure and unique text encryption algorithm developed and maintained by <b>S</b>aaiq <b>A</b>bdulla <b>S</b>aeed (<b>SAS</b>).
+<b>SAS-STE</b>  ( Saaiq Abdulla Saeed's - Secure Text Encryption ) is an opensource text-based deterministic random substitution encryption algorithm developed by Saaiq Abdulla Saeed (saaiqSAS)
 
 Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 
--SAS-
 
 <br/>
 
@@ -32,7 +31,7 @@ Web Page : https://saaiqsas.github.io/tools/sas-ste.html
 <br/>
 
 ## Documentation
-> <a href="https://github.com/saaiqSAS/SAS-STE/blob/SAS/Documentation/SAS-STE%20Documentation.pdf"> SAS-STE Official Documentation </a>
+(Currently Unavailable)
 
 <br/>
 
